@@ -1,10 +1,6 @@
 <?php
- if ( ! defined('BASEPATH')) exit('No direct script access allowed');
- /*
-     * author : bharani
-     * date : 21-12-2016
-     * Login Details
-     */
+if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
 class Employee_Model extends CI_Model{
 
 	public function __construct()
